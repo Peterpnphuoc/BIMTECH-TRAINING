@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>HelloWorld1</Name>
+		<FullClassName>HelloWorld1.HelloWorld</FullClassName>
+		<Text>HelloWorld</Text>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+			<Assembly>HelloWorld1.dll</Assembly>
+			<AddInId>A1B24CFB-1DA2-4703-9CCE-2BFF80B207C6</AddInId>
+				<VendorId>ADNP</VendorId>
+			</AddIn>
+</RevitAddIns>
